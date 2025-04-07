@@ -1,0 +1,98 @@
+longitude,latitude,pre_fire_date,post_fire_date,event_name,location
+-119.687,37.863,2018-07-13,2018-08-19,Ferguson Fire,California USA
+-121.751,39.927,2018-07-23,2018-09-18,Carr Fire,California USA
+-122.498,40.694,2018-07-23,2018-09-19,Mendocino Complex Fire,California USA
+-122.774,40.851,2018-07-05,2018-08-31,Klamathon Fire,California USA
+-119.434,37.516,2013-08-17,2013-09-21,Rim Fire,California USA
+-120.334,37.836,2020-09-04,2020-10-01,Creek Fire,California USA
+-122.649,37.936,2017-10-08,2017-10-31,Tubbs Fire,California USA
+-121.464,39.761,2018-11-08,2018-11-25,Camp Fire,California USA
+-117.501,33.748,2018-08-06,2018-09-01,Holy Fire,California USA
+-119.749,34.421,2017-12-04,2017-12-24,Thomas Fire,California USA
+-115.436,32.676,2020-06-26,2020-07-06,Border Fire,California USA
+-116.816,33.719,2020-07-31,2020-09-14,Apple Fire,California USA
+-121.162,38.769,2020-08-16,2020-09-03,LNU Lightning Complex,California USA
+-123.786,39.312,2020-08-16,2020-09-20,August Complex Fire,California USA
+-123.313,42.069,2020-09-08,2020-10-01,Slater/Devil Fire,California USA
+-111.772,33.464,2019-06-08,2019-06-15,Woodbury Fire,Arizona USA
+-110.772,31.898,2011-05-29,2011-07-08,Wallow Fire,Arizona USA
+-111.460,34.499,2013-06-28,2013-07-10,Yarnell Hill Fire,Arizona USA
+-112.116,33.538,2005-06-21,2005-07-01,Cave Creek Complex Fire,Arizona USA
+-111.872,33.651,2020-06-26,2020-07-04,Bush Fire,Arizona USA
+-111.277,32.319,2003-06-17,2003-07-07,Aspen Fire,Arizona USA
+-109.343,34.128,2011-05-10,2011-06-01,Wallow Fire,Arizona USA
+-104.651,38.842,2012-06-23,2012-07-10,Waldo Canyon Fire,Colorado USA
+-105.243,39.364,2016-07-09,2016-07-28,Hayden Pass Fire,Colorado USA
+-107.814,37.471,2018-06-01,2018-07-28,416 Fire,Colorado USA
+-105.343,40.417,2012-06-09,2012-07-01,High Park Fire,Colorado USA
+-105.311,40.668,2020-10-14,2020-11-30,Cameron Peak Fire,Colorado USA
+-105.679,40.275,2020-08-13,2020-12-09,East Troublesome Fire,Colorado USA
+-105.169,39.633,2020-10-17,2020-12-02,CalWood Fire,Colorado USA
+-113.937,48.591,2017-07-23,2017-09-24,Sprague Fire,Montana USA
+-113.885,47.993,2015-07-21,2015-08-31,Reynolds Creek Fire,Montana USA
+-114.134,46.853,2017-07-15,2017-09-18,Lolo Peak Fire,Montana USA
+-114.167,46.009,2007-07-31,2007-10-01,Pattee Canyon Fire,Montana USA
+-121.179,47.941,2015-06-27,2015-08-15,Sleepy Hollow Fire,Washington USA
+-120.132,48.539,2014-07-14,2014-08-21,Carlton Complex Fire,Washington USA
+-120.647,47.612,2017-09-02,2017-10-03,Jolly Mountain Fire,Washington USA
+-120.984,48.053,2014-07-16,2014-08-28,Mills Canyon Fire,Washington USA
+-122.086,46.199,2015-08-12,2015-10-16,Cougar Creek Fire,Washington USA
+-120.246,45.671,2018-07-21,2018-08-09,Substation Fire,Oregon USA
+-124.038,42.737,2017-07-12,2017-08-04,Chetco Bar Fire,Oregon USA
+-122.676,45.542,2017-09-02,2017-10-28,Eagle Creek Fire,Oregon USA
+-121.934,44.597,2020-09-07,2020-11-17,Lionshead Fire,Oregon USA
+-122.765,43.296,2020-09-07,2020-10-10,Archie Creek Fire,Oregon USA
+-123.066,43.234,2020-09-08,2020-10-12,Thielsen Fire,Oregon USA
+-155.268,19.406,2018-05-03,2018-08-15,Kilauea Volcano Fire,Hawaii USA
+-115.450,48.601,2015-08-13,2015-09-18,Parker Peak Fire,Idaho USA
+-116.133,43.758,2016-08-30,2016-09-14,Pioneer Fire,Idaho USA
+-114.933,42.522,2013-08-07,2013-08-31,Pony Complex Fire,Idaho USA
+-117.269,47.732,2015-08-14,2015-09-19,Tower Fire,Idaho USA
+-116.279,43.611,2007-08-13,2007-09-05,Cascade Complex Fire,Idaho USA
+-103.471,31.892,2011-04-24,2011-05-14,Rockhouse Fire,Texas USA
+-97.785,33.814,2011-04-15,2011-05-06,PK Complex Fire,Texas USA
+-102.212,30.482,2011-04-09,2011-04-25,Wildcat Fire,Texas USA
+-101.359,29.562,2011-04-13,2011-05-01,Schwartz Fire,Texas USA
+-99.268,30.479,2011-09-04,2011-10-10,Bastrop County Complex Fire,Texas USA
+-158.187,58.184,2019-08-18,2019-09-07,Swan Lake Fire,Alaska USA
+-156.303,66.847,2019-07-05,2019-08-15,Chalkyitsik Complex Fire,Alaska USA
+-153.236,61.514,2019-06-05,2019-08-26,Swan Lake Fire,Alaska USA
+-152.084,63.882,2004-06-14,2004-09-10,Boundary Fire,Alaska USA
+-149.731,64.873,2009-07-31,2009-09-12,Parks Highway Fire,Alaska USA
+-160.221,66.769,2007-07-04,2007-08-27,Noatak Fire,Alaska USA
+-148.841,61.213,2019-08-17,2019-09-15,McKinley Fire,Alaska USA
+-32.421,-3.797,2019-08-15,2019-09-28,Amazon Rainforest Fire,Brazil
+-57.654,-13.007,2020-09-13,2020-10-30,Pantanal Wetlands Fire,Brazil
+-51.087,-15.827,2019-08-19,2019-09-25,Cerrado Savanna Fire,Brazil
+-54.964,-10.178,2020-08-17,2020-09-23,Xingu Indigenous Park Fire,Brazil
+-149.046,-31.268,2019-11-08,2019-12-31,Gospers Mountain Fire,Australia
+-151.957,-32.324,2019-10-26,2019-11-12,Hillville Fire,Australia
+-149.755,-35.345,2020-01-27,2020-02-10,Orroral Valley Fire,Australia
+-150.142,-33.485,2019-12-15,2020-01-07,Green Wattle Creek Fire,Australia
+-146.887,-37.721,2020-01-02,2020-02-20,East Gippsland Fire,Australia
+-148.168,-35.091,2020-01-10,2020-02-15,Dunns Road Fire,Australia
+-139.507,-34.957,2020-01-03,2020-01-23,Kangaroo Island Fires,Australia
+-144.965,-37.812,2009-02-07,2009-02-20,Black Saturday Bushfires,Australia
+-23.415,65.645,2021-07-14,2021-07-20,Northern Iceland Fire,Iceland
+-18.105,65.683,2008-03-30,2008-04-07,Myvatn Lake Fire,Iceland
+129.054,35.876,2019-04-04,2019-04-13,Gangwon Province Fire,South Korea
+125.738,39.213,2019-03-31,2019-04-08,Mount Hwangnyong Fire,North Korea
+-3.821,43.311,2022-07-18,2022-08-05,Castilla y León Fire,Spain
+-8.453,42.031,2020-09-13,2020-09-22,Galicia Fire,Spain
+-4.779,40.432,2019-06-28,2019-07-07,Toledo Province Fire,Spain
+26.083,38.412,2021-08-03,2021-08-22,Evia Island Fire,Greece
+22.948,40.629,2021-08-07,2021-08-19,Attica Region Fire,Greece
+21.751,37.072,2007-08-24,2007-09-03,Peloponnese Fire,Greece
+14.054,40.831,2017-07-12,2017-07-25,Mount Vesuvius Fire,Italy
+9.194,45.465,2022-07-16,2022-07-30,Lombardy Alps Fire,Italy
+12.583,42.384,2017-08-15,2017-08-27,Rome Province Fire,Italy
+-118.242,33.891,2019-10-10,2019-10-31,Saddleridge Fire,California USA
+-121.988,39.143,2020-09-08,2020-10-13,North Complex Fire,California USA
+-119.174,37.748,2022-07-07,2022-07-24,Oak Fire,California USA
+-120.072,38.438,2021-08-14,2021-10-24,Caldor Fire,California USA
+-122.236,40.455,2021-06-30,2021-10-26,Dixie Fire,California USA
+-111.671,40.641,2021-08-14,2021-10-04,Parleys Canyon Fire,Utah USA
+-82.643,35.392,2016-11-23,2016-12-09,Chimney Tops 2 Fire,Tennessee USA
+144.968,-37.731,2019-12-30,2020-01-10,Gippsland Bushfire,Australia
+145.133,-38.271,2019-12-21,2020-01-15,Mallacoota Fire,Australia
+-119.698,35.044,2022-06-22,2022-07-06,Washburn Fire,California USA

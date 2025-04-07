@@ -1,0 +1,38 @@
+{
+  "location": {
+    "latitude": 34.42503613021334,
+    "longitude": -118.64135742187501
+  },
+  "preFireDate": "2025-02-24",
+  "postFireDate": "2025-03-24",
+  "dataSource": "Sentinel-2",
+  "totalBurnedArea": 0.08748785252972771,
+  "burnSeverityStats": {
+    "low": 0.07193784160443474,
+    "moderate": 0.011107015380859375,
+    "high": 0.004442995544433594,
+    "veryHigh": 0,
+    "extreme": 0
+  },
+  "nbrStats": {
+    "preFireAvg": -0.04676333538726268,
+    "postFireAvg": 0.12512359522079505,
+    "dNBRAvg": -0.17000786515050054,
+    "dNBRMax": 0.11186952934124272
+  },
+  "images": {
+    "preFireTrueColor": "C:\\Users\\moham\\OneDrive - systemsltd.com\\Desktop\\Pro\\scripts\\pre_fire.png",
+    "postFireTrueColor": "C:\\Users\\moham\\OneDrive - systemsltd.com\\Desktop\\Pro\\scripts\\post_fire.png",
+    "preFireNBR": "C:\\Users\\moham\\OneDrive - systemsltd.com\\Desktop\\Pro\\scripts\\pre_fire_nbr.png",
+    "postFireNBR": "C:\\Users\\moham\\OneDrive - systemsltd.com\\Desktop\\Pro\\scripts\\post_fire_nbr.png",
+    "dNBR": "C:\\Users\\moham\\OneDrive - systemsltd.com\\Desktop\\Pro\\scripts\\dnbr.png",
+    "burnSeverity": "C:\\Users\\moham\\OneDrive - systemsltd.com\\Desktop\\Pro\\scripts\\burn_severity.png",
+    "burnSeverityLegend": "C:\\Users\\moham\\OneDrive - systemsltd.com\\Desktop\\Pro\\scripts\\burn_severity_legend.png"
+  },
+  "status": "completed",
+  "timestamp": "2025-03-24T00:08:56.802036",
+  "burnSeverityPolygons": {
+    "type": "FeatureCollection",
+    "features": []
+  }
+}
